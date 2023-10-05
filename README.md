@@ -6,3 +6,5 @@ For this project I used:
 3. JS
    
 The website is fully responsive.
+
+Link: https://lukamiljkovic.github.io/team-landing-page/
